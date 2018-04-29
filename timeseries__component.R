@@ -96,6 +96,7 @@ monthplot(fit, choice='trend')
 monthplot(fit, choice='remainder')
 
 
+
 # Practise with different methods - Self Practise
 
 #Decompose another way

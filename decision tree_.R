@@ -1,3 +1,5 @@
+
+
 # CART Models - HH Case Study
 
 library(rpart)
@@ -102,5 +104,8 @@ ModelAccuarcy
 #select tree with cp
 #Predict & Check accuracy
 © 2018 GitHub, Inc.
+
+
+
 
 
